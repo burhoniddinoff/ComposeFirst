@@ -58,7 +58,6 @@ val ls = arrayOf(
 @Composable
 fun Task8() {
 
-
     LazyColumn {
         for (i in ls.indices) {
             item {
@@ -95,8 +94,6 @@ fun Item(data: Task8Data) {
                 .clip(CircleShape)
 
         )
-
-
 
         Column(
             modifier = Modifier
