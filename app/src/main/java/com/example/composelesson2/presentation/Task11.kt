@@ -167,10 +167,7 @@ fun Task11() {
 
                 }
             }
-// asdasdasd
         }
-
-
     }
 
     Box(
@@ -260,7 +257,6 @@ fun Task11() {
                     color = Color(0xFF858080)
                 )
             }
-
 
         }
     }
